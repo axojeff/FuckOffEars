@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuckOffEars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78bfc85e018566ac88a503e70d99dc0e60125886")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuckOffEars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuckOffEars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
